@@ -5,9 +5,7 @@ This is my first ReadMe markdown explaining the homework for week 1 of class.
 
 Here is a sample of how the website will look:
 
-![Homepage](./images/1)
-![Homepage2](./images/2)
-![Homepage3](./images/3)
+![Homepage](https://k-kelsey.github.io/CodeRefactorHW1/)
 
 ##Lessons learned from the assignment.
 ---
@@ -23,11 +21,11 @@ sheet.
 ### _Sources that helped me create this markdown._
 ---
 
-*[Hitesh Choudhary](https://www.youtube.com/watch?v=bpdvNwvEeSE)from YouTube.
+*[Hitesh Choudhary](https://www.youtube.com/watch?v=bpdvNwvEeSE) from YouTube.
 *[makeareadme.com](https://www.makeareadme.com/)
 *and helpful online tools such as [W3Schools](https://www.w3schools.com/cssref/pr_class_position.asp)
 
-Implemented new resources and structures from class as well. So a big shout out reference to Alex K and the TA's!
+Implemented new resources and structures from class as well such ass the reset.css.
 ```HTML
 <head>
     <meta charset="UTF-8" />
