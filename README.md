@@ -3,6 +3,12 @@
 
 This is my first ReadMe markdown explaining the homework for week 1 of class.
 
+Here is a sample of how the website will look:
+
+![Homepage](./images/1)
+![Homepage2](./images/2)
+![Homepage3](./images/3)
+
 ##Lessons learned from the assignment.
 ---
 
